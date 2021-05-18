@@ -1,1 +1,0 @@
-client_script "marcadeagua.lua"
